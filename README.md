@@ -1,7 +1,7 @@
 # PROGRAMMING ASSIGNMENT 2
-##### GREFALDEO, Lettice Hyacinth | 2ECE-C
+### GREFALDEO, Lettice Hyacinth P. | 2ECE-C
 
-This repository contains Python scripts designed to solve the different problems given in ECE 2112, Programming Assignment 1. Below is a summary of each script
+This repository contains Python scripts designed to solve the different problems given in ECE 2112, Programming Assignment 2. Below is a summary of each script
 
 ### Problem 1 - Reproducible Normalization Problem
 ###### This problem will be creating a 5x5 array with random integers and will be normalized using the given formula.
