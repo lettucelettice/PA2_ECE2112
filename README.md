@@ -1,4 +1,5 @@
-# PA2_ECE2112
+# PROGRAMMING ASSIGNMENT 2
+##### GREFALDEO, Lettice Hyacinth | 2ECE-C
 
 This repository contains Python scripts designed to solve the different problems given in ECE 2112, Programming Assignment 1. Below is a summary of each script
 
